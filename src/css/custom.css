@@ -1,4 +1,41 @@
 body, html {
     font-family: 'Istok Web', sans-serif;
     background-color: var(--primeira);
+    margin: 0;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+#titulo-alternativo {
+    font-family: 'Lobster Two', cursive;
+    color: var(--quarta);
+}
+
+#home {
+    width: 80%;
+    max-width: 896px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+    margin-top: 15%;
+}
+
+.btn-custom {
+    background: var(--segunda);
+    border-color: var(--segunda);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+    color: black;
+    /* Tamanho min que o botão precisa ter */
+    min-width: 165px; 
+    min-height: 35px;
+
+}
+
+.btn-custom:hover {
+    background-color: var(--quarta);
+    border: var(--quarta);
 }

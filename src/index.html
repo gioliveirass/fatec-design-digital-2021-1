@@ -7,11 +7,7 @@
 
         <!-- Tipografias -->
         <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-        <!-- No CSS: font-family: 'Istok Web', sans-serif; -->
-        <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400&family=Lobster+Two&display=swap" rel="stylesheet">
-        <!-- No CSS: font-family: 'Istok Web', sans-serif; -->
 
         <!-- CSS -->
         <link rel="stylesheet" href="css/main.css">
@@ -20,12 +16,42 @@
     </head>
     <body>
         
+        <div id="home">
+            <div class="container">
+                <!-- No bootstrap, as colunas são inceridas dentro de uma classe Row -->
+                <div class="row"> 
 
+                    <!-- O tamanho total das colunas é 12, e a primeira coluna (no caso) é menos do que a segunda (4 + 8 = 12) -->
 
+                    <!-- text-center: centraliza a imagem
+                        mb-4: Por padrão terá uma margin bottom de tamanho 4, porém:
+                        mb-lg-o: Se a tela tiver o tamanho lg (≥992 px) a margin bottom será 0 -->
 
+                    <div class="col-lg-4 text-center mb-4 mb-lg-0">
+                        <!-- img-fluid: A imagem se adaptará ao display automaticamente-->
+                        <img src="assets/fotoMinha.svg" alt="Foto de Giovana" class="img-fluid">
+                    </div>
+                    <div class="col-lg-8">
+                        <!-- O texto do título é por padrão alinhado no ínicio, mas:
+                            Se a tela for de tamanho lg (≥992 px) o texto será alinhado ao centro -->
+                        <h1 class="text-lg-start text-center">Hello World...</h1>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti, libero! Nesciunt, rerum totam laboriosam numquam aliquid explicabo praesentium maxime aliquam officiis voluptas minima nobis nam voluptate debitis similique sequi exercitationem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi magnam autem, voluptatum fugiat odio quasi, quisquam, suscipit at minus id eos deleniti doloremque soluta voluptatibus quis molestiae recusandae quam eveniet.</p>
 
+                        <!-- d-grid gap-2: Os botões terão o display grid e serão por padrão alinhados um abaixo do outro com a lagura total, porém:
+                            Se a tela tiver o tamanho sm (≥576px) o display será flex e os botões serão alinhados um ao lado do outro
+                            (O flex permite que você utilize o justify-contente: between, que é a forma de alinhamento) -->
 
-
+                        <section id="buttons" class="d-grid gap-2 d-sm-flex justify-content-sm-between">
+                            <!-- btn btn-danger são as classes do bootstrap, em seguida vem a customização 
+                                O "role" serve para transmitir adequadamente a finalidade para tecnologias assistivas, como leitores de tela. -->
+                            <a href="#" class="btn btn-danger btn-custom" role="button">Curriculum</a> 
+                            <a href="#" class="btn btn-danger btn-custom" role="button">Portfólio</a> 
+                            <a href="#" class="btn btn-danger btn-custom" role="button">Interesses</a>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- BOOTSTRAP JS -->
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous"></script>

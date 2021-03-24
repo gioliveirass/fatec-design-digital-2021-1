@@ -32,21 +32,22 @@
                         <img src="assets/fotoMinha.svg" alt="Foto de Giovana" class="img-fluid">
                     </div>
                     <div class="col-lg-8">
-                        <!-- O texto do título é por padrão alinhado no ínicio, mas:
-                            Se a tela for de tamanho lg (≥992 px) o texto será alinhado ao centro -->
-                        <h1 class="text-lg-start text-center">Hello World...</h1>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti, libero! Nesciunt, rerum totam laboriosam numquam aliquid explicabo praesentium maxime aliquam officiis voluptas minima nobis nam voluptate debitis similique sequi exercitationem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi magnam autem, voluptatum fugiat odio quasi, quisquam, suscipit at minus id eos deleniti doloremque soluta voluptatibus quis molestiae recusandae quam eveniet.</p>
+                        <section>
+                            <!-- O texto do título é por padrão alinhado no ínicio, mas:
+                                Se a tela for de tamanho lg (≥992 px) o texto será alinhado ao centro -->
+                            <h1 class="text-lg-start text-center">Hello World...</h1>
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti, libero! Nesciunt, rerum totam laboriosam numquam aliquid explicabo praesentium maxime aliquam officiis voluptas minima nobis nam voluptate debitis similique sequi exercitationem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi magnam autem, voluptatum fugiat odio quasi, quisquam, suscipit at minus id eos deleniti doloremque soluta voluptatibus quis molestiae recusandae quam eveniet.</p>
+                            <!-- d-grid gap-2: Os botões terão o display grid e serão por padrão alinhados um abaixo do outro com a lagura total, porém:
+                                Se a tela tiver o tamanho sm (≥576px) o display será flex e os botões serão alinhados um ao lado do outro
+                                (O flex permite que você utilize o justify-contente: between, que é a forma de alinhamento) -->
 
-                        <!-- d-grid gap-2: Os botões terão o display grid e serão por padrão alinhados um abaixo do outro com a lagura total, porém:
-                            Se a tela tiver o tamanho sm (≥576px) o display será flex e os botões serão alinhados um ao lado do outro
-                            (O flex permite que você utilize o justify-contente: between, que é a forma de alinhamento) -->
-
-                        <section id="buttons" class="d-grid gap-2 d-sm-flex justify-content-sm-between">
-                            <!-- btn btn-danger são as classes do bootstrap, em seguida vem a customização 
-                                O "role" serve para transmitir adequadamente a finalidade para tecnologias assistivas, como leitores de tela. -->
-                            <a href="curriculum.html" class="btn btn-danger btn-custom" role="button">Curriculum</a> 
-                            <a href="portfolio.html" class="btn btn-danger btn-custom" role="button">Portfólio</a> 
-                            <a href="interesses.html" class="btn btn-danger btn-custom" role="button">Interesses</a>
+                            <div id="buttons" class="d-grid gap-2 d-sm-flex justify-content-sm-between">
+                                <!-- btn btn-danger são as classes do bootstrap, em seguida vem a customização 
+                                    O "role" serve para transmitir adequadamente a finalidade para tecnologias assistivas, como leitores de tela. -->
+                                <a href="curriculum.html" class="btn btn-danger btn-custom" role="button">Curriculum</a> 
+                                <a href="portfolio.html" class="btn btn-danger btn-custom" role="button">Portfólio</a> 
+                                <a href="interesses.html" class="btn btn-danger btn-custom" role="button">Interesses</a>
+                            </div>
                         </section>
                     </div>
                 </div>

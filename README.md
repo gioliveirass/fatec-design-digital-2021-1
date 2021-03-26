@@ -21,7 +21,7 @@ Trabalho desenvolvido na disciplina Design Digital da Faculdade de Tecnologia de
 Os arquivos do projeto estão organizados em duas pastas principais, sendo elas: <a href="https://github.com/gioliveirass/fatec-design-digital-2021-1/tree/main/mgt">/mgt</a> e <a href="https://github.com/gioliveirass/fatec-design-digital-2021-1/tree/main/src">/src</a>. Logo abaixo, é possível conferir uma descrição completa de cada uma delas.
 
 ### 📁 /mgt
-Na pasta /mgt encontra-se um PDF com o wireframe de todas as interfaces do sistema web (para desktop e para mobile). No caso do wireframe para desktop, também existe a opção de visualizar através do <a href="https://www.figma.com/proto/Cx0eIMqmYycnW9XM1prhxy/FATEC---Design-Digital-2021%2F1?node-id=2%3A3&scaling=min-zoom">link do Figma</a>.
+Na pasta /mgt encontra-se um PDF com os wireframes de todas as interfaces do sistema web (para desktop e para mobile). No caso do wireframe para desktop, também existe a opção de visualizar através do <a href="https://www.figma.com/proto/Cx0eIMqmYycnW9XM1prhxy/FATEC---Design-Digital-2021%2F1?node-id=2%3A3&scaling=min-zoom">link do Figma</a>.
 
 ### 📁 /src
 Na pasta /src está o codigo-fonte do sistema web. Os principais arquivos dentro dela são os .html que compõem as interfaces do site, sendo eles:
@@ -30,9 +30,9 @@ Na pasta /src está o codigo-fonte do sistema web. Os principais arquivos dentro
 Arquivo | Descrição 
 --------|-----------------------------------------------------
 index.html | Arquivo que corresponde a página inicial do site
-curriculum.html | Arquivo que corresponde a página de curriculum do site
-interesses.html | Arquivo que corresponde a página de interesses do site
-portfolio.html | Arquivo que corresponde a página do portfólio do site
+curriculum.html | Arquivo que corresponde a página de curriculum
+interesses.html | Arquivo que corresponde a página de interesses
+portfolio.html | Arquivo que corresponde a página do portfólio
 
 Além dos .html, existem outros arquivos importantes que estão distribuidos e organizados em subpastas dentro da /src. Uma dessas subpastas é a <a href="https://github.com/gioliveirass/fatec-design-digital-2021-1/tree/main/src/assets">/assets</a>, que recebe todas as imagens utilizadas no projeto. Já a subpasta <a href="https://github.com/gioliveirass/fatec-design-digital-2021-1/tree/main/src/js">/js</a> recebe o arquivo javascript do Bootstrap, nomeado "bootstrap.min.js". Todos os arquivos .css utilizados podem ser encontrados na subpasta <a href="https://github.com/gioliveirass/fatec-design-digital-2021-1/tree/main/src/css">/css</a>, e a descrição de cada um deles está logo abaixo:
 
@@ -45,6 +45,6 @@ custom.css | Arquivo com minhas customizações do estilo da página
 responsive.css | Arquivo que define algumas modificações no estilo dependendo do display
 
 ## <a id="prototipo"> Demonstração do protótipo </a>
-Abaixo é possível visualizar o vídeo de demonstração do projeto:
+Abaixo é possível visualizar o vídeo de demonstração do protótipo:
 
 > https://youtu.be/WISOCuKu1CA

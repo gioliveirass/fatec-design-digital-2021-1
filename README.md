@@ -6,8 +6,8 @@
   <a href="#sobre-projeto"> Sobre o projeto </a> • <a href="#tecnologias">Tecnologias utilizadas </a> • <a href="#arquivos-pastas"> Arquivos e pastas </a> • <a href="#prototipo"> Demonstração do protótipo </a>
 </p>
 
->Identificação: Giovana Thaís de Oliveira Silva (RM: 1461392111018) - Desenvolvimento de Software Multiplataforma.
->
+>Identificação: Giovana Thaís de Oliveira Silva - DSM Fatec SJC.
+
 ## <a id="sobre-projeto"> Sobre o projeto </a>
 Trabalho desenvolvido na disciplina Design Digital da Faculdade de Tecnologia de São José dos Campos, que consiste na criação de um site pessoal com informações sobre interesses, curriculum, portfólio, entre outros.
 
@@ -34,7 +34,7 @@ curriculum.html | Arquivo que corresponde a página de curriculum do site
 interesses.html | Arquivo que corresponde a página de interesses do site
 portfolio.html | Arquivo que corresponde a página do portfólio do site
 
-Além dos .html, existem outros arquivos importantes que estão distribuidos e organizados em subpastas dentro da /src. Uma dessas subpastas é a <a href="https://github.com/gioliveirass/fatec-design-digital-2021-1/tree/main/src/assets">/assets</a>, que recebe todas as imagens utilizadas no projeto. Já a subpasta <a href="https://github.com/gioliveirass/fatec-design-digital-2021-1/tree/main/src/js">/js</a> recebe o arquivo javascript do Bootstrap, nomeado "bootstrap.min.js". Todos os arquivos .css utilizados podem ser encontrados na subpasta <a href="#">/css</a>, e a descrição de cada um deles está logo abaixo:
+Além dos .html, existem outros arquivos importantes que estão distribuidos e organizados em subpastas dentro da /src. Uma dessas subpastas é a <a href="https://github.com/gioliveirass/fatec-design-digital-2021-1/tree/main/src/assets">/assets</a>, que recebe todas as imagens utilizadas no projeto. Já a subpasta <a href="https://github.com/gioliveirass/fatec-design-digital-2021-1/tree/main/src/js">/js</a> recebe o arquivo javascript do Bootstrap, nomeado "bootstrap.min.js". Todos os arquivos .css utilizados podem ser encontrados na subpasta <a href="https://github.com/gioliveirass/fatec-design-digital-2021-1/tree/main/src/css">/css</a>, e a descrição de cada um deles está logo abaixo:
 
 Arquivo | Descrição 
 --------|-----------------------------------------------------
@@ -47,5 +47,4 @@ responsive.css | Arquivo que define algumas modificações no estilo dependendo 
 ## <a id="prototipo"> Demonstração do protótipo </a>
 Abaixo é possível visualizar o vídeo de demonstração do projeto:
 
-> Vídeo solicitado pelo professor
-
+> https://youtu.be/WISOCuKu1CA

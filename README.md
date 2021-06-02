@@ -54,7 +54,7 @@ De acordo com os feedbacks oferecidos pelo professor, o projeto sofreu algumas m
 - Foi melhorado o contraste das fontes da barra de navegação;
 - No wireframe, os textos foram alterados para descreverem o que será escrito em cada parágrafo, ao invés de ter apenas 'loren ipsum'.
 
-Ademais, foram inseridos os textos principais nas páginas do projeto, bem como imagens (sempre no formato SVG, para que não percam a qualidade mesmo que a tela mude de tamanho) que possuem filtros sendo aplicados no CSS.
+Ademais, foram inseridos os textos principais nas páginas do projeto, bem como imagens responsivas (sempre no formato SVG, para que não percam a qualidade mesmo que a tela mude de tamanho) que possuem filtros sendo aplicados no CSS.
 
 Abaixo é possível visualizar um vídeo apresentando o resultado final do projeto:
 

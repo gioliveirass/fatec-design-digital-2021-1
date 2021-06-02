@@ -29,6 +29,8 @@ h1 {
 }
 
 #home img {
+    max-width: 250px;
+    max-height: 250px;
     filter: brightness(1.2);
 }
 

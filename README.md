@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center"> 
-  <a href="#sobre-projeto"> Sobre o projeto </a> • <a href="#tecnologias">Tecnologias utilizadas </a> • <a href="#arquivos-pastas"> Arquivos e pastas </a> • <a href="#prototipo"> Demonstração do protótipo </a>
+  <a href="#sobre-projeto"> Sobre o projeto </a> • <a href="#tecnologias">Tecnologias utilizadas </a> • <a href="#arquivos-pastas"> Arquivos e pastas </a> • <a href="#prototipo"> Demonstração do protótipo </a>  • <a href="#resultadoFinal"> Resultado final </a> 
 </p>
 
 >Identificação: Giovana Thaís de Oliveira Silva - DSM Fatec SJC.
@@ -48,3 +48,14 @@ responsive.css | Arquivo que define algumas modificações no estilo dependendo 
 Abaixo é possível visualizar o vídeo de demonstração do protótipo:
 
 > https://youtu.be/WISOCuKu1CA
+
+## <a id="resultadoFinal"> Resultado final </a>
+De acordo com os feedbacks oferecidos pelo professor, o projeto sofreu algumas mudanças:
+- Foi melhorado o contraste das fontes da barra de navegação;
+- No wireframe, os textos foram alterados para descreverem o que será escrito em cada parágrafo, ao invés de ter apenas 'loren ipsum'.
+
+Ademais, foram inseridos os textos principais nas páginas do projeto, bem como imagens (sempre no formato SVG, para que não percam a qualidade mesmo que a tela mude de tamanho) que possuem filtros sendo aplicados no CSS.
+
+Abaixo é possível visualizar um vídeo apresentando o resultado final do projeto:
+
+> Em breve...

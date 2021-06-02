@@ -82,6 +82,10 @@ h1 {
     margin-bottom: 0%;
 }
 
+#conteudo a:hover{
+    color: var(--sexta);
+}
+
 #titulo-alternativo {
     font-family: 'Lobster Two', cursive;
     color: var(--quarta);

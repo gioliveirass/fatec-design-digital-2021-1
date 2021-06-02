@@ -1,11 +1,9 @@
-/* Se a tela tiver até que 988px... */
 @media (max-width: 988px) {
     #conteudo {
         margin: 5%;
     }
 }
 
-/* Se a tela tiver até 988px... */
 @media (max-width: 576px) {
     .card-custom {
         background-color: transparent;
@@ -14,3 +12,4 @@
         border: none;
     }
 }
+

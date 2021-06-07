@@ -11,7 +11,7 @@
 ## <a id="sobre-projeto"> Sobre o projeto </a>
 Trabalho desenvolvido na disciplina Design Digital da Faculdade de Tecnologia de São José dos Campos, que consiste na criação de um site pessoal com informações sobre interesses, curriculum, portfólio, entre outros.
 
->📌 Status do projeto: Em desenvolvimento.
+>📌 Status do projeto: Finalizado.
 
 ## <a id="tecnologias"> Tecnologias utilizadas </a>
 
@@ -58,4 +58,4 @@ Ademais, foram inseridos os textos principais nas páginas do projeto, bem como 
 
 Abaixo é possível visualizar um vídeo apresentando o resultado final do projeto:
 
-> Em breve...
+> https://youtu.be/SUcAorbaUlU

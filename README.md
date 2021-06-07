@@ -56,6 +56,6 @@ De acordo com os feedbacks oferecidos pelo professor, o projeto sofreu algumas m
 
 Ademais, foram inseridos os textos principais nas páginas do projeto, bem como imagens responsivas (sempre no formato SVG, para que não percam a qualidade mesmo que a tela mude de tamanho) que possuem filtros sendo aplicados no CSS.
 
-Abaixo é possível visualizar um vídeo apresentando o resultado final do projeto:
+Abaixo é possível visualizar o vídeo da apresentação do resultado final do projeto:
 
 > https://youtu.be/SUcAorbaUlU

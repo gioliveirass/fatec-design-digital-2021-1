@@ -6,7 +6,7 @@
   <a href="#sobre-projeto"> Sobre o projeto </a> • <a href="#tecnologias">Tecnologias utilizadas </a> • <a href="#arquivos-pastas"> Arquivos e pastas </a> • <a href="#prototipo"> Demonstração do protótipo </a>  • <a href="#resultadoFinal"> Resultado final </a> 
 </p>
 
->Identificação: Giovana Thaís de Oliveira Silva - DSM Fatec SJC.
+>Identificação: Giovana Thaís de Oliveira Silva - 1 DSM Fatec SJC.
 
 ## <a id="sobre-projeto"> Sobre o projeto </a>
 Trabalho desenvolvido na disciplina Design Digital da Faculdade de Tecnologia de São José dos Campos, que consiste na criação de um site pessoal com informações sobre interesses, curriculum, portfólio, entre outros.
